@@ -16,3 +16,8 @@ For details:
 
 - See [`architecture.md`](./architecture.md) for the full stack model  
 - See [`roadmap.md`](./roadmap.md) for the development plan
+
+## License
+
+Cognous-owned original material is licensed under [Apache 2.0](LICENSE).
+See [NOTICE](NOTICE) for attribution and third-party scope. Prior license grants remain valid.
